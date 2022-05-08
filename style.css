@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Laptop{
+    width: 100%;
+    max-width: 1200px;
+    position: relative;
+}
+.Laptop img{
+    width: 70%;
+}
+.Laptop2 {
+    position: absolute;
+    width: 48.7%;
+    height: 60.3%;
+    background: #000;
+    top:7.1%;
+    left:11.5%;
+}
